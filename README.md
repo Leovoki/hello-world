@@ -1,11 +1,6 @@
 # hello-world
 
 
-When l was a high school student,l learned the italiano. 
-Due to my good command of language,l was arranged to make a speech in the presence of faculty. 
-l was glad to enjoy this moment.<br>
-<br>
-<br>
 #如何clone别人的项目并branch然后pull requests.<br>
 ====
 0.注册github，并在目标页面的`issues`，comment领取任务。<br>

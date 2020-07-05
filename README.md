@@ -7,7 +7,7 @@ l was glad to enjoy this moment.<br>
 <br>
 <br>
 #如何clone别人的项目并branch然后pull requests.<br>
-0.注册github，并在目标页面的`issue`，comment领取任务。<br>
+0.注册github，并在目标页面的`issues`，comment领取任务。<br>
 1.下载git,安装并path。Click here to learn steps. https://blog.csdn.net/sanxd/article/details/82624127<br>
 2.下载hugo，将exe文件path.<br>
 3.if you want to merge yours into other project. Firstly,you should folk their coding to your github, and then clone down your localhost.<br>

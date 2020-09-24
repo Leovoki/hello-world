@@ -12,4 +12,8 @@
 
 4.After setting the SSH, ![new SSH key](https://img-blog.csdnimg.cn/20190701164114389.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0MDM5MDE4,size_16,color_FFFFFF,t_70) <br>
 ![](https://img-blog.csdnimg.cn/2019070116413884.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0MDM5MDE4,size_16,color_FFFFFF,t_70)
-5.Now you can git clone the coding. ![git clone](https://images2015.cnblogs.com/blog/1089028/201706/1089028-20170619215102601-1310571091.png) <br>
+5.Now you can git clone the coding. ![git clone](https://images2015.cnblogs.com/blog/1089028/201706/1089028-20170619215102601-1310571091.png) <br>  
+6.git checkout -b xxxx;创建一个本地分支,命名为xxxx  
+7.然后开始修改代码
+8.git checkout master;切换到master分支
+9.git pulll;从远程master分支拉取最新的代码内容
